@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/qgQUggAC3Pfv687qPC)]()
+[![MasterHead]([https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen))]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Al-Bendakji</h1>
 <h3 align="center">A passionate frontend developer with agog appetite of Coding!</h3>
