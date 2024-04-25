@@ -1,20 +1,20 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Al-Bendakji</h1>
-<h3 align="center">A passionate frontend developer with agog appetite of Coding!</h3>
+<h3 align="center">A passionate product owner, project manager with agog appetite of Coding and leading!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-al-bendakji&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-al-bendakji" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend & UX/UI Projects**
+- 🔭 I’m currently working on **managing and leading Backend & Frontend & UX/UI Projects**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Al-Bendakji?tab=repositories](https://github.com/Muhammed-Al-Bendakji?tab=repositories)
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **Product management, Project management**
 
 - 📫 How to reach me **Mohammed.al.benkji@gmail.com**
 
